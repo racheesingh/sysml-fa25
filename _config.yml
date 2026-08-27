@@ -3,11 +3,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CS5470 SYSML
+title: CS5470 SYSML (Fall 2025)
 tagline: Systems for Large-Scale Machine Learning
-description: Systems for Large-Scale Machine Learning (Cornell CS5470)
+description: Systems for Large-Scale Machine Learning (Cornell CS5470) — Fall 2025 archive
 author: Rachee Singh
-baseurl: '/sysml' 
+baseurl: '/sysml-fa25'
 
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
